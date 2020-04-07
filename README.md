@@ -1,1 +1,3 @@
-# Optimization-Algorithms-and-Activation-Functions-
+# Optimization-Algorithms-,-Activation-Functions-and-Regulariztion Techniques
+
+D
